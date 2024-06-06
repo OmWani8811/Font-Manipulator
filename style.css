@@ -1,0 +1,35 @@
+.heading{
+    margin: 0px;
+    box-shadow: 3px 3px 3px grey;
+    font-weight: bolder;
+    font-size:29px;
+    width: 100%;
+    font-family:cursive;
+}
+.note{
+    color: black;
+}
+.copy_right_footer{
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom: 0;
+    background-color: rgb(85, 189, 193);
+    color: white;
+    position: fixed;
+    font-weight: lighter;
+    font-size: 20px;
+}
+body{
+   background-size:auto;
+}
+span{
+    font-size: medium;
+    font-weight: normal;
+}
+video {
+    transform: scaleX(-1); /* This flips the video horizontally */
+}
+canvas {
+    border: 5px black solid;
+}
